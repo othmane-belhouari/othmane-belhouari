@@ -1,11 +1,11 @@
 <!-- Bannière supérieure animée -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Othmane%20Belhouari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%7C%20Full-Stack%20%7C%20AI%20%26%20Networking&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Othmane%20Belhouari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%7C%20Full-Stack%20%7C%20AI%20-%20Networking&descAlignY=58&descSize=18" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Animation de saisie de texte (Typing SVG) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+(.NET%2C+Symfony%2C+Laravel);AI%2C+Machine+Learning+%26+Automation+Enthusiast+%F0%9F%A4%96;Systems%2C+Socket+Programming+%26+Computer+Networks+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%F0%9F%8E%93;Full-Stack+Developer+(.NET%2C+Symfony%2C+Laravel);AI%2C+Machine+Learning+and+Automation+%F0%9F%A4%96;Systems%2C+Socket+Programming+and+Networks+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
 <!-- Badges de contact -->
@@ -97,15 +97,4 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=othmane-belhouari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othmane-belhouari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=othmane-belhouari&theme=tokyonight&hide_border=true&background=0D1117" width="60%" alt="GitHub Streak" />
-</p>
-
-<!-- Bannière inférieure animée -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=100&section=footer" width="100%" alt="Footer Banner" />
-</p>
+  <img src="
